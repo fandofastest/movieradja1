@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117139575394",
+    "firebase_url": "https://full-hd-movie-radja.firebaseio.com",
+    "project_id": "full-hd-movie-radja",
+    "storage_bucket": "full-hd-movie-radja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117139575394:android:590d02cc67fdd6a18b373b",
+        "android_client_info": {
+          "package_name": "com.fullmovies.hdmoviessteamssss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117139575394-0q0fd1mjpo6fcpmkumqgkgm6rvebtm3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDCobYXsiej-u2ANefrc9xzv7vLgozSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117139575394-0q0fd1mjpo6fcpmkumqgkgm6rvebtm3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
